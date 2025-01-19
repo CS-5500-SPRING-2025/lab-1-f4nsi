@@ -43,6 +43,8 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 ## Task 2: GitHub Tutorial (24 marks)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
+![p3](/images/3.png)
+![p4](/images/4.png)
 
 ## Task 3: Lab Questions (11 marks)
 
