@@ -51,24 +51,33 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 Include answers as described in the [Lab 1](L1.md) file:
 
 ### Q1
+While Git is a distributed version control system installed locally on computers, Github is an online SaaS service built to run Git in the cloud. Git allows developers to manage their source code history by their own machines as repositories, meanwhile, Github acts as a centralized location hosting Git repositories for sharing. They work together to implement the version control.<br>
+(source: https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them#:~:text=The%20key%20difference%20between%20Git,is%20an%20online%20SaaS%20service.)
 
 ### Q2
+A distributed system is a system in which the complete code base history is mirrored on every developer's computer. It enables branching and merging, imporves the ability to work offline, and provides multiple locations for backups.<br>
+(Source: https://en.wikipedia.org/wiki/Distributed_version_control)
 
 ### Q3
+- Modified: Changes have been edited and waited to be saved.
+- Staged: Changes have been saved to the staging area and waited to be committed.
+- Committed: Changes have been made and recorded to the repository's history for good.
 
 ### Q4
 
 #### Q4 (i)
-
+git clone: Copy a remote online repository to the local as a same new repository.
 #### Q4 (ii)
-
+git status: Print the status of the current working directory and staging area.
 #### Q4 (iii)
-
+git fetch: Fetch and copy the updates from a remote online repository to the local branch.
 #### Q4 (iv)
-
+git init: Creat a new repository.
 #### Q4 (v)
-
+git log: Print the log, showing all former changes of the repository.
 ### Q5
+A .gitignore file is a file located in the repository's root directory to tell Git which files and directories to ignore when you make a commit. It is shared with all other users who clone the repository, commit the .gitignore file in to your repository. Its main purpose is to ensure that certain files not tracked by Git remain untracked.
+(source: https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files, https://git-scm.com/docs/gitignore#:~:text=The%20purpose%20of%20gitignore%20files,being%20reintroduced%20in%20later%20commits.)
 
 ## Task 4: Video Questions (4 marks)
 
