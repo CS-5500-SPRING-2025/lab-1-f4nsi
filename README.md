@@ -76,7 +76,7 @@ git init: Creat a new repository.
 #### Q4 (v)
 git log: Print the log, showing all former changes of the repository.
 ### Q5
-A .gitignore file is a file located in the repository's root directory to tell Git which files and directories to ignore when you make a commit. It is shared with all other users who clone the repository, commit the .gitignore file in to your repository. Its main purpose is to ensure that certain files not tracked by Git remain untracked.
+A .gitignore file is a file located in the repository's root directory to tell Git which files and directories to ignore when you make a commit. It is shared with all other users who clone the repository, commit the .gitignore file in to your repository. Its main purpose is to ensure that certain files not tracked by Git remain untracked.<br>
 (source: https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files, https://git-scm.com/docs/gitignore#:~:text=The%20purpose%20of%20gitignore%20files,being%20reintroduced%20in%20later%20commits.)
 
 ## Task 4: Video Questions (4 marks)
@@ -84,5 +84,7 @@ A .gitignore file is a file located in the repository's root directory to tell G
 Include answers as described in the [Lab 1](L1.md) file.
 
 ### Q1
+The Software Development Life Cycle is the process for developing software, including seven phases: planning, requirement analysis, design, implementation, testing, deployment, and maintenance. During planning, the customer and product manager define the application's purpose. Requirement analysis involves outlining detailed functional and technical requirements with the engineering team. In the design phase, aspects such as the user interface, business rules, programming languages, and frameworks are determined. Implementation includes hardware setup, coding, UI design, and preparing test cases, followed by testing, where bugs are identified and resolved. Finally, the software is deployed and maintained to ensure it remains functional over time.
 
 ### Q2
+The SDLC is import in software projects because it defines the development phases and the responsibilities of each character over different phases, ensuring the software development team could cooperate seamlessly and the software could be built as customers' requirements efficiently.
